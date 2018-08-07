@@ -4,7 +4,7 @@
 <%@ taglib prefix="cms" uri="http://hybris.com/tld/cmstags"%>
 <%@ taglib prefix="product" tagdir="/WEB-INF/tags/responsive/product"%>
 
-<template:page pageTitle="Fawad-Test3">
+<template:page pageTitle="Jenkins 1 dep">
         <cms:pageSlot position="Section1" var="comp" element="div" class="productDetailsPageSection1">
                 <cms:component component="${comp}" element="div" class="productDetailsPageSection1-component"/>
         </cms:pageSlot>
